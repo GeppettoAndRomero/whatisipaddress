@@ -38,5 +38,8 @@ TODO: Write usage instructions here
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-## quote
+## Thanks
+
+http://qiita.com/saltheads/items/cc49fcf2af37cb277c4f
+http://matsu.teraren.com/blog/2013/04/05/external-ip-address/
 
