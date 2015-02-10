@@ -22,9 +22,11 @@ And then execute:
 
 require "whatisipaddress"
 
-Whatisipaddress.local
+Whatisipaddress.localip
+=>"192.168.1.3"
 
-Whatisipaddress.global
+Whatisipaddress.globalip
+=>"208.233.11.23"
 
 ```
 
